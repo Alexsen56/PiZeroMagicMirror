@@ -17,7 +17,7 @@ dirname, filename = os.path.split(os.path.abspath(__file__))
 #print(dirname)
 #exit()
 errorText="Error In Parsing"
-gCityID="1275339"
+gCityID="5359864"
 gAppID="15373f8c0b06b6e66e6372db065c4e46"
 filename=os.path.join(dirname,'temp.json')
 deviceConfigFileName=os.path.join(dirname,"remoteDeviceConfig.json")
